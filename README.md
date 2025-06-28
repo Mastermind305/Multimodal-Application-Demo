@@ -30,7 +30,7 @@ BLIP processes images with a visual encoder and generates descriptive captions u
 
 > 📌 Insert your Gradio app screenshot below:
 
-![Demo Screenshot](Screenshot 2025-06-28 194244.png) <!-- Replace with actual file path if hosted -->
+![Demo Screenshot](Screenshot%202025-06-28%20194244.png) <!-- Replace with actual file path if hosted -->
 
 ---
 

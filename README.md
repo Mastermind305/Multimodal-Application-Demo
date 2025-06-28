@@ -44,9 +44,3 @@ BLIP processes images with a visual encoder and generates descriptive captions u
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/blip-image-captioning-app.git
-cd blip-image-captioning-app
-pip install -r requirements.txt
